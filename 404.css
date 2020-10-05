@@ -1,0 +1,27 @@
+
+body {
+    background-color: #fefee2;
+    background-image: url("C:/users/ihate/desktop/image-font.jpg");
+    
+  }
+ .global {  
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+
+  .flottante {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    background-color: rgb(255, 255, 255);
+    border: 2px hsl(0, 100%, 100%);
+    margin: 2px;
+    float: center;
+    width: 300px;
+    text-align: center;
+    background-color: #d4d4a6;
+  }
+  .conteneur {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto 
+}
